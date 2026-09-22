@@ -166,4 +166,6 @@ In AWT konnte Graphics direkt auf den Hintergrund bzw. die Komponente zeichnen.
 Beim JavaFX-Canvas muss der vorherige Inhalt explizit gelöscht werden. Deshalb:
 g.setFill(Color.BLACK);
 g.fillRect(0, 0, canvas.getWidth(), canvas.getHeight()); 
-*/
+
+
+Eine sehr tolle Änderung*/
